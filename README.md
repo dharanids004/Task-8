@@ -33,4 +33,4 @@ You: what is your name
 You: bye
 🤖 Chatbot: Goodbye! Have a great day!
 ## Author
-Gokulakannan S C
+Dharanidharan S
